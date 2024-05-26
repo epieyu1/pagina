@@ -369,7 +369,7 @@ li {
 
 /* responsive */
 
-@media (max-width:991px) {
+@media (max-width:700px) {
     .menu {
         padding: 20px;
     }
